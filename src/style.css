@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    color: white;
+    padding: 0px 20px;
+}
+h2{
+    font-size: 1.50rem;
+    margin-right: auto;
+}
+h3{
+    font-size: 1.10rem;
+    font-weight: 500;
+}
+img{
+    height: 50px;
+    margin-right: 10px;
+}
