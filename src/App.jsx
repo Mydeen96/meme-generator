@@ -1,5 +1,5 @@
 import Header from "./Components/Header"
-
+import Memepage from "./Components/Memepage"
 
 export default  function App() {
 
@@ -7,7 +7,7 @@ export default  function App() {
   return (
       <div className="container">
         <Header/>
-        <h1>Hell React!!</h1>
+        <Memepage />
       </div>
       )
 }
