@@ -49,6 +49,7 @@ export default function Memepage(){
                         onChange = {handleChange}
                         value = {memeInput.topText}
                         />
+                        
                </div>
                <div className="input">
                     <label htmlFor="bottomText">Bottom text</label>
